@@ -203,11 +203,6 @@ def xxr():
         jalan('\033[1;97m====================================================')
         for love in user:
               pwx = [uid,'free fire','freefire123','i love you']
-            
-            
-                
-               
-            manshera.submit(rcrack,uid,pwx,tl)
     print(f"\n{x} ══════════════════════════════════════════")
 def rcrack(uid,pwx,tl):
     #print(user)
