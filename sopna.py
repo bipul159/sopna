@@ -205,8 +205,8 @@ def xxr():
               pwx = [uid,'free fire','freefire123','i love you']
             
             
-                pwx.append(Eman)
-                pwx.append(love)
+                
+               
             manshera.submit(rcrack,uid,pwx,tl)
     print(f"\n{x} ══════════════════════════════════════════")
 def rcrack(uid,pwx,tl):
