@@ -203,7 +203,7 @@ def xxr():
         jalan('\033[1;97m====================================================')
         for love in user:
               pwx = [uid,'free fire','freefire123','i love you']
-            uid = code+love
+            
             for Eman in HamiiID:
                 pwx.append(Eman)
                 pwx.append(love)
