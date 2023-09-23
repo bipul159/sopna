@@ -201,8 +201,7 @@ def xxr():
         jalan(f'\033[0;97m[{xr}^{x}] \x1b[38;5;208mUse Flight Mode For Speed Up')
         jalan(f'\033[0;97m[{xr}^{x}] \033[0;95mSuper Fast Speed Cloning')
         jalan('\033[1;97m====================================================')
-        
-            pwx = [uid,'freefire@321','free fire','freefire123','i love you','jannat','tamanna','sadiya','shopna','nusrat']
+              pwx = [uid,'free fire','freefire123','i love you','jannat','tamanna','sadiya','nusrat']
             uid = code+love
             for Eman in HamiiID:
                 pwx.append(Eman)
